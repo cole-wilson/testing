@@ -1,2 +1,1 @@
-# testing
-&lt;!channel>@channel
+nice try
